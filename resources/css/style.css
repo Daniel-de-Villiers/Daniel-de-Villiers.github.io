@@ -41,6 +41,8 @@ header {
   width: 100%;
   border-bottom: solid 1px #c6c1c1;
   background-color: white;
+  min-height: 85px;
+  padding: 30px;
 }
 
 header .content {
@@ -51,6 +53,9 @@ header .content {
 
 header .logo {
   flex: 1;
+  color: #4a4a4a;
+  font-size: 24px;
+  font-family: 'Roboto-Mono-Regular';
 }
 
 header nav ul {
